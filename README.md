@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uliapluzh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uliapluzh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&cache_seconds=0
+) 
